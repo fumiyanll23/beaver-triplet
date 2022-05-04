@@ -1,4 +1,4 @@
-# BeaverTriplet
+# Beaver Triplet
 
 ## What Is the Beaver Triplet?
 
